@@ -1,5 +1,3 @@
-// Slightly modified version of Clock class from Lectures 5 & 6
-
 public class Clock implements Runnable {
 
   // Protected access means these are accessible in subclasses
